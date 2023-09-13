@@ -1,0 +1,33 @@
+.my-6 input {
+    height: 2rem;
+    border: 1px solid #ccc;
+    border-radius: 0.25rem;
+    font-size: 0.875rem;
+    padding: 0.5rem;
+    width: 95%;
+    outline: none;
+    margin-bottom: 3px;
+  }
+  
+
+  .w-full.border.rounded.p-2 {
+    border: 1px solid #ccc;
+    border-radius: 0.25rem;
+    padding: 0.5rem;
+  }
+
+  .w-full thead th {
+    padding: 0.5rem;
+    text-align: left;
+  }
+  
+  .w-full tbody tr {
+    transition: background-color 0.2s;
+  }
+  
+
+  .w-full tbody td {
+    padding: 0.5rem;
+    font-size: 0.875rem;
+  }
+  
